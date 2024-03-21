@@ -80,3 +80,30 @@
     padding-top: 500px;
     padding-left: 500px;
 }
+
+.main-container-3 {
+    background-color: grey;
+    max-width: 3000px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+}
+
+.col-main-3 {
+    background-color: pink;
+    border: solid 2px;
+    border-style: dashed;
+    padding: 50px;
+    padding-top: 500px;
+    padding-left: 500px;
+    margin-left: 250px;
+}
+
+.col-main-4 {
+    background-color: dodgerblue;
+    border: solid 2px;
+    border-style: dashed;
+    padding: 50px;
+    padding-top: 500px;
+    padding-left: 700px;
+}
