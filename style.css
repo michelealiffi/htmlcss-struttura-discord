@@ -46,11 +46,37 @@
 }
 
 .row-main-1 {
-    background-color: pink;
+    background-color: rgb(185, 76, 185);
     border: solid 2px;
     border-style: dashed;
     padding: 50px;
     padding-top: 300px;
     margin-left: 500px;
     margin-right: 500px;
+}
+
+.main-container-2 {
+    max-width: 3000px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+}
+
+.col-main-1 {
+    background-color: dodgerblue;
+    border: solid 2px;
+    border-style: dashed;
+    padding: 50px;
+    padding-top: 500px;
+    padding-left: 700px;
+    margin-left: 250px;
+}
+
+.col-main-2 {
+    background-color: pink;
+    border: solid 2px;
+    border-style: dashed;
+    padding: 50px;
+    padding-top: 500px;
+    padding-left: 500px;
 }
